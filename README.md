@@ -95,9 +95,3 @@ La conexión se realiza mediante la librería `mysql.connector`, utilizando la f
 ## 📎 Recurso Adicional
 - [Video demostrativo](https://youtu.be/57zvgDe1iSQ) de la interfaz CRUD y simulación de inyección SQL
 
-Este archivo incluye:
-1. Instrucciones claras de instalación y configuración
-2. Todas las características técnicas del proyecto
-3. Estructura de la base de datos
-4. Medidas de seguridad implementadas
-
