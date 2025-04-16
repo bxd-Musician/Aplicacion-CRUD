@@ -92,18 +92,12 @@ La conexión se realiza mediante la librería `mysql.connector`, utilizando la f
 | sección  | VARCHAR(255)  | Sección a la que pertenece       |
 | edad     | INT           | Edad del estudiante             |
 
-## 📎 Recursos Adicionales
-- [Repositorio del código fuente](#)
-- [Video demostrativo](#) de la interfaz CRUD y simulación de inyección SQL
-
-## 👨‍💻 Autor
-[Tu Nombre Aquí]  
-Proyecto desarrollado como parte del estudio de aplicaciones seguras en Python con MySQL.
-```
+## 📎 Recurso Adicional
+- [Video demostrativo](https://youtu.be/57zvgDe1iSQ) de la interfaz CRUD y simulación de inyección SQL
 
 Este archivo incluye:
 1. Instrucciones claras de instalación y configuración
 2. Todas las características técnicas del proyecto
 3. Estructura de la base de datos
 4. Medidas de seguridad implementadas
-5. Información del autor
+
