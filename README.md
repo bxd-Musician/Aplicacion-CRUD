@@ -12,8 +12,8 @@ Esta aplicación ha sido desarrollada en **Python** y tiene como objetivo princi
 ### Instalación
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/bxd-Musician/Aplicacion-CRUD]
-   cd Aplicacion CRUD
+   git clone https://github.com/bxd-Musician/Aplicacion-CRUD
+   cd Aplicacion-CRUD
    ```
 
 2. Instala las dependencias:
